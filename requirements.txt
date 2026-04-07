@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+googletrans==4.0.0rc1
+deep-translator
+nltk
+joblib
+streamlit
